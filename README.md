@@ -24,7 +24,7 @@
 - Seaborn - version 0.11.2
 - Matplotlib - version 3.5
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Conclusions
 - Interest Rate is one of the critical factors that impact the loan charged-off. We see that as the interest rate increases, the charged-off also increases.
